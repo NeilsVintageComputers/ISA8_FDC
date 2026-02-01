@@ -4,7 +4,7 @@ These FDCs are based on the Sergey Monster FDC, they use the Sergey FDC Bios V2.
 
 V1.0 is a 4-way FDC and has a external 37-pin connector option for the second pair of drives.
 
-V2.0 is a 4-way FDC and has a internal PCB edge connector option for the first pair of drives and a external 37-pin connector for the second pair of drives.
+V2.0 is a 4-way FDC and has a internal PCB edge connector option for the first pair of drives and a external 37-pin connector option for the second pair of drives.
 
 V1.0
 ![NFDCv1](https://github.com/user-attachments/assets/0d168eae-7281-4f72-ac51-ed38b42415dd)
